@@ -1,2 +1,0 @@
-# Take Home Assignments
-
